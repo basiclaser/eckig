@@ -1,0 +1,288 @@
+
+/* Welcome to eckig allunits!
+This css file contains all the possible non-equilateral variations within a sixteenbysixteen grid, which means that you can type
+whichever unit size you like, for example fourbyseven, twobyeight, or sixteenbyone and the desired proportions will 
+appear. There is no real need for you to edit this stylesheet. */
+
+
+.onebyone {width: 4.44vmin;height: 4.44vmin;}
+.onebytwo {width: 4.44vmin;height: 10.29vmin;}
+.onebythree {width: 4.44vmin;height: 16.14vmin;}
+.onebyfour {width: 4.44vmin;height: 22vmin;}
+.onebyfive {width: 4.44vmin;height: 27.83vmin;}
+.onebysix {width: 4.44vmin;height: 33.73vmin;}
+.onebyseven {width: 4.44vmin;height: 39.6vmin;}
+.onebyeight {width: 4.44vmin;height: 45.4vmin;}
+.onebynine {width: 4.44vmin;height: 51.18vmin;}
+.onebyten {width: 4.44vmin;height: 57.1vmin;}
+.onebyeleven {width: 4.44vmin;height: 63vmin;}
+.onebytwelve {width: 4.44vmin;height: 68.8vmin;}
+.onebythirteen {width: 4.44vmin;height: 74.6vmin;}
+.onebyfourteen {width: 4.44vmin;height: 80.5vmin;}
+.onebyfifteen {width: 4.44vmin;height: 86.3vmin;}
+.onebysixteen {width: 4.44vmin;height: 92.2vmin;}
+
+.twobyone {width: 10.29vmin;height: 4.44vmin;}
+.twobytwo {width: 10.29vmin;height: 10.29vmin;}
+.twobythree {width: 10.29vmin;height: 16.14vmin;}
+.twobyfour {width: 10.29vmin;height: 22vmin;}
+.twobyfive {width: 10.29vmin;height: 27.83vmin;}
+.twobysix {width: 10.29vmin;height: 33.73vmin;}
+.twobyseven {width: 10.29vmin;height: 39.6vmin;}
+.twobyeight {width: 10.29vmin;height: 45.4vmin;}
+.twobynine {width: 10.29vmin;height: 51.18vmin;}
+.twobyten {width: 10.29vmin;height: 57.1vmin;}
+.twobyeleven {width: 10.29vmin;height: 63vmin;}
+.twobytwelve {width: 10.29vmin;height: 68.8vmin;}
+.twobythirteen {width: 10.29vmin;height: 74.6vmin;}
+.twobyfourteen {width: 10.29vmin;height: 80.5vmin;}
+.twobyfifteen {width: 10.29vmin;height: 86.3vmin;}
+.twobysixteen {width: 10.29vmin;height: 92.2vmin;}
+
+.threebyone {width: 16.14vmin;height: 4.44vmin;}
+.threebytwo {width: 16.14vmin;height: 10.29vmin;}
+.threebythree {width: 16.14vmin;height: 16.14vmin;}
+.threebyfour {width: 16.14vmin;height: 22vmin;}
+.threebyfive {width: 16.14vmin;height: 27.83vmin;}
+.threebysix {width: 16.14vmin;height: 33.73vmin;}
+.threebyseven {width: 16.14vmin;height: 39.6vmin;}
+.threebyeight {width: 16.14vmin;height: 45.4vmin;}
+.threebynine {width: 16.14vmin;height: 51.18vmin;}
+.threebyten {width: 16.14vmin;height: 57.1vmin;}
+.threebyeleven {width: 16.14vmin;height: 63vmin;}
+.threebytwelve {width: 16.14vmin;height: 68.8vmin;}
+.threebythirteen {width: 16.14vmin;height: 74.6vmin;}
+.threebyfourteen {width: 16.14vmin;height: 80.5vmin;}
+.threebyfifteen {width: 16.14vmin;height: 86.3vmin;}
+.threebysixteen {width: 16.14vmin;height: 92.2vmin;}
+
+.fourbyone {width: 22vmin;height: 4.44vmin;}
+.fourbytwo {width: 22vmin;height: 10.29vmin;}
+.fourbythree {width: 22vmin;height: 16.14vmin;}
+.fourbyfour {width: 22vmin;height: 22vmin;}
+.fourbyfive {width: 22vmin;height: 27.83vmin;}
+.fourbysix {width: 22vmin;height: 33.73vmin;}
+.fourbyseven {width: 22vmin;height: 39.6vmin;}
+.fourbyeight {width: 22vmin;height: 45.4vmin;}
+.fourbynine {width: 22vmin;height: 51.18vmin;}
+.fourbyten {width: 22vmin;height: 57.1vmin;}
+.fourbyeleven {width: 22vmin;height: 63vmin;}
+.fourbytwelve {width: 22vmin;height: 68.8vmin;}
+.fourbythirteen {width: 22vmin;height: 74.6vmin;}
+.fourbyfourteen {width: 22vmin;height: 80.5vmin;}
+.fourbyfifteen {width: 22vmin;height: 86.3vmin;}
+.fourbysixteen {width: 22vmin;height: 92.2vmin;}
+
+.fivebyone {width: 27.83vmin;height: 4.44vmin;}
+.fivebytwo {width: 27.83vmin;height: 10.29vmin;}
+.fivebythree {width: 27.83vmin;height: 16.14vmin;}
+.fivebyfour {width: 27.83vmin;height: 22vmin;}
+.fivebyfive {width: 27.83vmin;height: 27.83vmin;}
+.fivebysix {width: 27.83vmin;height: 33.73vmin;}
+.fivebyseven {width: 27.83vmin;height: 39.6vmin;}
+.fivebyeight {width: 27.83vmin;height: 45.4vmin;}
+.fivebynine {width: 27.83vmin;height: 51.18vmin;}
+.fivebyten {width: 27.83vmin;height: 57.1vmin;}
+.fivebyeleven {width: 27.83vmin;height: 63vmin;}
+.fivebytwelve {width: 27.83vmin;height: 68.8vmin;}
+.fivebythirteen {width: 27.83vmin;height: 74.6vmin;}
+.fivebyfourteen {width: 27.83vmin;height: 80.5vmin;}
+.fivebyfifteen {width: 27.83vmin;height: 86.3vmin;}
+.fivebysixteen {width: 27.83vmin;height: 92.2vmin;}
+
+.sixbyone {width: 33.73vmin;height: 4.44vmin;}
+.sixbytwo {width: 33.73vmin;height: 10.29vmin;}
+.sixbythree {width: 33.73vmin;height: 16.14vmin;}
+.sixbyfour {width: 33.73vmin;height: 22vmin;}
+.sixbyfive {width: 33.73vmin;height: 27.83vmin;}
+.sixbysix {width: 33.73vmin;height: 33.73vmin;}
+.sixbyseven {width: 33.73vmin;height: 39.6vmin;}
+.sixbyeight {width: 33.73vmin;height: 45.4vmin;}
+.sixbynine {width: 33.73vmin;height: 51.18vmin;}
+.sixbyten {width: 33.73vmin;height: 57.1vmin;}
+.sixbyeleven {width: 33.73vmin;height: 63vmin;}
+.sixbytwelve {width: 33.73vmin;height: 68.8vmin;}
+.sixbythirteen {width: 33.73vmin;height: 74.6vmin;}
+.sixbyfourteen {width: 33.73vmin;height: 80.5vmin;}
+.sixbyfifteen {width: 33.73vmin;height: 86.3vmin;}
+.sixbysixteen {width: 33.73vmin;height: 92.2vmin;}
+
+.sevenbyone {width: 39.6vmin;height: 4.44vmin;}
+.sevenbytwo {width: 39.6vmin;height: 10.29vmin;}
+.sevenbythree {width: 39.6vmin;height: 16.14vmin;}
+.sevenbyfour {width: 39.6vmin;height: 22vmin;}
+.sevenbyfive {width: 39.6vmin;height: 27.83vmin;}
+.sevenbysix {width: 39.6vmin;height: 33.73vmin;}
+.sevenbyseven {width: 39.6vmin;height: 39.6vmin;}
+.sevenbyeight {width: 39.6vmin;height: 45.4vmin;}
+.sevenbynine {width: 39.6vmin;height: 51.18vmin;}
+.sevenbyten {width: 39.6vmin;height: 57.1vmin;}
+.sevenbyeleven {width: 39.6vmin;height: 63vmin;}
+.sevenbytwelve {width: 39.6vmin;height: 68.8vmin;}
+.sevenbythirteen {width: 39.6vmin;height: 74.6vmin;}
+.sevenbyfourteen {width: 39.6vmin;height: 80.5vmin;}
+.sevenbyfifteen {width: 39.6vmin;height: 86.3vmin;}
+.sevenbysixteen {width: 39.6vmin;height: 92.2vmin;}
+
+.eightbyone {width: 45.4vmin;height: 4.44vmin;}
+.eightbytwo {width: 45.4vmin;height: 10.29vmin;}
+.eightbythree {width: 45.4vmin;height: 16.14vmin;}
+.eightbyfour {width: 45.4vmin;height: 22vmin;}
+.eightbyfive {width: 45.4vmin;height: 27.83vmin;}
+.eightbysix {width: 45.4vmin;height: 33.73vmin;}
+.eightbyseven {width: 45.4vmin;height: 39.6vmin;}
+.eightbyeight {width: 45.4vmin;height: 45.4vmin;}
+.eightbynine {width: 45.4vmin;height: 51.18vmin;}
+.eightbyten {width: 45.4vmin;height: 57.1vmin;}
+.eightbyeleven {width: 45.4vmin;height: 63vmin;}
+.eightbytwelve {width: 45.4vmin;height: 68.8vmin;}
+.eightbythirteen {width: 45.4vmin;height: 74.6vmin;}
+.eightbyfourteen {width: 45.4vmin;height: 80.5vmin;}
+.eightbyfifteen {width: 45.4vmin;height: 86.3vmin;}
+.eightbysixteen {width: 45.4vmin;height: 92.2vmin;}
+
+.ninebyone {width: 51.18vmin;height: 4.44vmin;}
+.ninebytwo {width: 51.18vmin;height: 10.29vmin;}
+.ninebythree {width: 51.18vmin;height: 16.14vmin;}
+.ninebyfour {width: 51.18vmin;height: 22vmin;}
+.ninebyfive {width: 51.18vmin;height: 27.83vmin;}
+.ninebysix {width: 51.18vmin;height: 33.73vmin;}
+.ninebyseven {width: 51.18vmin;height: 39.6vmin;}
+.ninebyeight {width: 51.18vmin;height: 45.4vmin;}
+.ninebynine {width: 51.18vmin;height: 51.18vmin;}
+.ninebyten {width: 51.18vmin;height: 57.1vmin;}
+.ninebyeleven {width: 51.18vmin;height: 63vmin;}
+.ninebytwelve {width: 51.18vmin;height: 68.8vmin;}
+.ninebythirteen {width: 51.18vmin;height: 74.6vmin;}
+.ninebyfourteen {width: 51.18vmin;height: 80.5vmin;}
+.ninebyfifteen {width: 51.18vmin;height: 86.3vmin;}
+.ninebysixteen {width: 51.18vmin;height: 92.2vmin;}
+
+.tenbyone {width: 57.1vmin;height: 4.44vmin;}
+.tenbytwo {width: 57.1vmin;height: 10.29vmin;}
+.tenbythree {width: 57.1vmin;height: 16.14vmin;}
+.tenbyfour {width: 57.1vmin;height: 22vmin;}
+.tenbyfive {width: 57.1vmin;height: 27.83vmin;}
+.tenbysix {width: 57.1vmin;height: 33.73vmin;}
+.tenbyseven {width: 57.1vmin;height: 39.6vmin;}
+.tenbyeight {width: 57.1vmin;height: 45.4vmin;}
+.tenbynine {width: 57.1vmin;height: 51.18vmin;}
+.tenbyten {width: 57.1vmin;height: 57.1vmin;}
+.tenbyeleven {width: 57.1vmin;height: 63vmin;}
+.tenbytwelve {width: 57.1vmin;height: 68.8vmin;}
+.tenbythirteen {width: 57.1vmin;height: 74.6vmin;}
+.tenbyfourteen {width: 57.1vmin;height: 80.5vmin;}
+.tenbyfifteen {width: 57.1vmin;height: 86.3vmin;}
+.tenbysixteen {width: 57.1vmin;height: 92.2vmin;}
+
+.elevenbyone {width: 63vmin;height: 4.44vmin;}
+.elevenbytwo {width: 63vmin;height: 10.29vmin;}
+.elevenbythree {width: 63vmin;height: 16.14vmin;}
+.elevenbyfour {width: 63vmin;height: 22vmin;}
+.elevenbyfive {width: 63vmin;height: 27.83vmin;}
+.elevenbysix {width: 63vmin;height: 33.73vmin;}
+.elevenbyseven {width: 63vmin;height: 39.6vmin;}
+.elevenbyeight {width: 63vmin;height: 45.4vmin;}
+.elevenbynine {width: 63vmin;height: 51.18vmin;}
+.elevenbyten {width: 63vmin;height: 57.1vmin;}
+.elevenbyeleven {width: 63vmin;height: 63vmin;}
+.elevenbytwelve {width: 63vmin;height: 68.8vmin;}
+.elevenbythirteen {width: 63vmin;height: 74.6vmin;}
+.elevenbyfourteen {width: 63vmin;height: 80.5vmin;}
+.elevenbyfifteen {width: 63vmin;height: 86.3vmin;}
+.elevenbysixteen {width: 63vmin;height: 92.2vmin;}
+
+.twelvebyone {width: 68.8vmin;height: 4.44vmin;}
+.twelvebytwo {width: 68.8vmin;height: 10.29vmin;}
+.twelvebythree {width: 68.8vmin;height: 16.14vmin;}
+.twelvebyfour {width: 68.8vmin;height: 22vmin;}
+.twelvebyfive {width: 68.8vmin;height: 27.83vmin;}
+.twelvebysix {width: 68.8vmin;height: 33.73vmin;}
+.twelvebyseven {width: 68.8vmin;height: 39.6vmin;}
+.twelvebyeight {width: 68.8vmin;height: 45.4vmin;}
+.twelvebynine {width: 68.8vmin;height: 51.18vmin;}
+.twelvebyten {width: 68.8vmin;height: 57.1vmin;}
+.twelvebyeleven {width: 68.8vmin;height: 63vmin;}
+.twelvebytwelve {width: 68.8vmin;height: 68.8vmin;}
+.twelvebythirteen {width: 68.8vmin;height: 74.6vmin;}
+.twelvebyfourteen {width: 68.8vmin;height: 80.5vmin;}
+.twelvebyfifteen {width: 68.8vmin;height: 86.3vmin;}
+.twelvebysixteen {width: 68.8vmin;height: 92.2vmin;}
+
+.thirteenbyone {width: 74.6vmin;height: 4.44vmin;}
+.thirteenbytwo {width: 74.6vmin;height: 10.29vmin;}
+.thirteenbythree {width: 74.6vmin;height: 16.14vmin;}
+.thirteenbyfour {width: 74.6vmin;height: 22vmin;}
+.thirteenbyfive {width: 74.6vmin;height: 27.83vmin;}
+.thirteenbysix {width: 74.6vmin;height: 33.73vmin;}
+.thirteenbyseven {width: 74.6vmin;height: 39.6vmin;}
+.thirteenbyeight {width: 74.6vmin;height: 45.4vmin;}
+.thirteenbynine {width: 74.6vmin;height: 51.18vmin;}
+.thirteenbyten {width: 74.6vmin;height: 57.1vmin;}
+.thirteenbyeleven {width: 74.6vmin;height: 63vmin;}
+.thirteenbytwelve {width: 74.6vmin;height: 68.8vmin;}
+.thirteenbythirteen {width: 74.6vmin;height: 74.6vmin;}
+.thirteenbyfourteen {width: 74.6vmin;height: 80.5vmin;}
+.thirteenbyfifteen {width: 74.6vmin;height: 86.3vmin;}
+.thirteenbysixteen {width: 74.6vmin;height: 92.2vmin;}
+
+.fourteenbyone {width: 80.5vmin;height: 4.44vmin;}
+.fourteenbytwo {width: 80.5vmin;height: 10.29vmin;}
+.fourteenbythree {width: 80.5vmin;height: 16.14vmin;}
+.fourteenbyfour {width: 80.5vmin;height: 22vmin;}
+.fourteenbyfive {width: 80.5vmin;height: 27.83vmin;}
+.fourteenbysix {width: 80.5vmin;height: 33.73vmin;}
+.fourteenbyseven {width: 80.5vmin;height: 39.6vmin;}
+.fourteenbyeight {width: 80.5vmin;height: 45.4vmin;}
+.fourteenbynine {width: 80.5vmin;height: 51.18vmin;}
+.fourteenbyten {width: 80.5vmin;height: 57.1vmin;}
+.fourteenbyeleven {width: 80.5vmin;height: 63vmin;}
+.fourteenbytwelve {width: 80.5vmin;height: 68.8vmin;}
+.fourteenbythirteen {width: 80.5vmin;height: 74.6vmin;}
+.fourteenbyfourteen {width: 80.5vmin;height: 80.5vmin;}
+.fourteenbyfifteen {width: 80.5vmin;height: 86.3vmin;}
+.fourteenbysixteen {width: 80.5vmin;height: 92.2vmin;}
+
+.fifteenbyone {width: 86.3vmin;height: 4.44vmin;}
+.fifteenbytwo {width: 86.3vmin;height: 10.29vmin;}
+.fifteenbythree {width: 86.3vmin;height: 16.14vmin;}
+.fifteenbyfour {width: 86.3vmin;height: 22vmin;}
+.fifteenbyfive {width: 86.3vmin;height: 27.83vmin;}
+.fifteenbysix {width: 86.3vmin;height: 33.73vmin;}
+.fifteenbyseven {width: 86.3vmin;height: 39.6vmin;}
+.fifteenbyeight {width: 86.3vmin;height: 45.4vmin;}
+.fifteenbynine {width: 86.3vmin;height: 51.18vmin;}
+.fifteenbyten {width: 86.3vmin;height: 57.1vmin;}
+.fifteenbyeleven {width: 86.3vmin;height: 63vmin;}
+.fifteenbytwelve {width: 86.3vmin;height: 68.8vmin;}
+.fifteenbythirteen {width: 86.3vmin;height: 74.6vmin;}
+.fifteenbyfourteen {width: 86.3vmin;height: 80.5vmin;}
+.fifteenbyfifteen {width: 86.3vmin;height: 86.3vmin;}
+.fifteenbysixteen {width: 86.3vmin;height: 92.2vmin;}
+
+.sixteenbyone {width: 92.2vmin;height: 4.44vmin;}
+.sixteenbytwo {width: 92.2vmin;height: 10.29vmin;}
+.sixteenbythree {width: 92.2vmin;height: 16.14vmin;}
+.sixteenbyfour {width: 92.2vmin;height: 22vmin;}
+.sixteenbyfive {width: 92.2vmin;height: 27.83vmin;}
+.sixteenbysix {width: 92.2vmin;height: 33.73vmin;}
+.sixteenbyseven {width: 92.2vmin;height: 39.6vmin;}
+.sixteenbyeight {width: 92.2vmin;height: 45.4vmin;}
+.sixteenbynine {width: 92.2vmin;height: 51.18vmin;}
+.sixteenbyten {width: 92.2vmin;height: 57.1vmin;}
+.sixteenbyeleven {width: 92.2vmin;height: 63vmin;}
+.sixteenbytwelve {width: 92.2vmin;height: 68.8vmin;}
+.sixteenbythirteen {width: 92.2vmin;height: 74.6vmin;}
+.sixteenbyfourteen {width: 92.2vmin;height: 80.5vmin;}
+.sixteenbyfifteen {width: 92.2vmin;height: 86.3vmin;}
+.sixteenbysixteen {width: 92.2vmin;height: 92.2vmin;}
+
+.half
+.third
+.quarter
+.fifth
+.sixth
+.seventh
+.eighth
+.ninth
+.tenth
