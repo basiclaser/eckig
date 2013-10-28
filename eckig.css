@@ -1,0 +1,163 @@
+
+/* Welcome to eckig!
+Eckig is square-based 16x16 grid, designed to load small-screen-up for faster loading times on small devices (which is why media queries are used throughout the whole stylesheet.
+
+ */
+
+/* Sections 
+================================
+	#Body / universal
+	#Below 300px wide
+	#Below 400px wide
+	#Below 500px wide
+	#Above 500px wide
+	#Basic Units
+	#Your additional stuff!
+
+/* #Body / universal
+================================ */
+
+body
+	{
+	background:url("background2.jpg") no-repeat center center 	fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	user-select: none;
+	-moz-user-select: none;
+	overflow: hidden;
+	
+	}
+
+
+.allsize {display:inline;}
+#grid .invisible {opacity:0; !important;}
+
+img {height:100%; width:100%;}
+
+#grid {width:95vmin;height:95vmin;}
+
+#grid div{
+		cursor: pointer;
+		background-color:#f0f0f0;
+		text-decoration:none;
+		}
+
+h1, h2, h3, h4, h5, li, ul, ol, p, span, dd, dt, a{
+	margin:1vmin;
+	color:white;
+	text-decoration:none;
+	}
+
+.onebyone{width:25vmin; height:25vmin}
+.twobytwo{width:50vmin; height:50vmin}
+
+/* #Below 300px Wide
+================================ */
+
+@media only screen and (max-width: 299px) {
+
+#grid{}
+#grid div{
+		width:91vmin;
+		height:91vmin;
+		}
+
+h1, h2, h3, h4, h5, li, ul, ol, p, span, dd, dt{
+font: 0.88em futura, serif;
+	font-weight:500;}
+
+.under300 {display:inline;}
+}
+
+/* #Below 400px Wide
+================================ */
+@media only screen and (min-width: 300px) and (max-width: 399px){
+#grid
+	{}
+#grid div{
+		width:45vmin;
+		height: 45vmin;	
+		margin-left: 1.8vmin;
+		margin-top:1.8vmin;
+		float:left;
+		}
+
+h1, h2, h3, h4, h5, li, ul, ol, p, span, dd, dt{
+font: 0.9em futura, serif;
+	font-weight:500;}
+
+.under400 {display:inline;}
+}
+
+/* #Below 500px Wide
+================================ */
+@media only screen and (min-width: 400px) and (max-width: 499px){
+#grid{
+	width:100%;
+		}
+#grid div{
+		width:29vmin;
+		height:29vmin;
+		margin-left:1.41vmin;
+		margin-top:1.41vmin;
+		float:left;
+		}
+
+h1, h2, h3, h4, h5, li, ul, ol, p, span, dd, dt{
+font: 0.9em futura, serif;
+	font-weight:500;}
+
+.under500 {display:inline;}
+}
+
+/* #Above 500px Wide
+================================ */
+@media only screen and (min-width: 500px){
+#grid{
+	margin: 0 auto;
+	margin-top: 2.5vmin;
+	}
+
+#grid div{
+		margin-left: 1.41vmin;
+		margin-top: 1.41vmin;
+		float: left;
+		display:inline-block;		
+		border-top-left-radius: 5px;
+		opacity:0.8;
+		}
+
+h1, h2, h3, h4, h5, li, ul, ol, p, span, dd, dt{
+font: futura, serif;
+	font-weight:500;}
+
+.over500 {display:inline;}
+
+/* #Basic Units
+================================ */
+.onebyone {height: 4.44vmin;width: 4.44vmin;}
+.twobytwo {height: 10.29vmin;width: 10.29vmin;}
+.threebythree {height: 16.14vmin;width: 16.14vmin;}
+.fourbyfour {height: 22vmin;width: 22vmin;}
+.fivebyfive {height: 27.83vmin;width: 27.83vmin;}
+.sixbysix {height: 33.73vmin;width: 33.73vmin;}
+.sevenbyseven {height: 39.6vmin;width: 39.6vmin;}
+.eightbyeight {height: 45.4vmin;width: 45.4vmin;}
+.ninebynine {height: 51.18vmin;width: 51.18vmin;}
+.tenbyten {height: 57.1vmin;width: 57.1vmin;}
+.elevenbyeleven {height: 63vmin;width: 63vmin;}
+.twelvebytwelve {height: 68.8vmin;width: 68.8vmin;}
+.thirteenbythirteen {height: 74.6vmin;width: 74.6vmin;}
+.fourteenbyfourteen {height: 80.5vmin;width: 80.5vmin;}
+.fifteenbyfifteen {height: 86.3vmin;width: 86.3vmin;}
+.sixteenbysixteen {height: 92.2vmin;width: 92.2vmin;}
+}
+
+/*This is the end of the 'Above 500px Wide' media query*/	
+
+
+/* #Your additional stuff!
+================================ */
+/* 	Use this section if you prefer to keep your CSS tinkering like individual unit tinkering away from the default eckig base */
