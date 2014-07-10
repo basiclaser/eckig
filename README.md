@@ -1,8 +1,11 @@
 eckig
 =====
 
-DEMO > http://basic-laser.com/eckig/index.html
+A sixteen-by-sixteen grid boilerplate written in HTML/CSS
+For people who want perfectly square websites.
 
-16*16 DEMO > http://basic-laser.com/eckig/pixelart.html
+Homepage > http://system-art.io/eckig
 
-a sixteen-by-sixteen grid boilerplate written in HTML/CSS
+Full resolution grid > http://system-art.io/eckig/pixelart.html
+
+I would eventually like to rebuild this with JS and SASS
