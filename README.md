@@ -1,6 +1,5 @@
 eckig
 =====
-I think this was my first code project ever. 
 
 A sixteen-by-sixteen grid boilerplate written in HTML/CSS, for people who want perfectly square websites.
 
